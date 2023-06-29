@@ -2,7 +2,7 @@
 Tech Mahindra Foundation project
 Team Member 
 Aman Pal
-Manas 
+Manas Kumar
 Roshan Sharma
 Richa Kuamri Jha
 Shiv Shankar Kumar
