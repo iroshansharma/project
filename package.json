@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "shb",
+  "version": "1.0.0",
+  "description": "Seminar Hall Booking APp",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanyRupes/srec-shb-site.git"
+  },
+  "author": "techie_Dany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanyRupes/srec-shb-site/issues"
+  },
+  "homepage": "https://github.com/DanyRupes/srec-shb-site#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "firebase-admin": "^6.0.0",
+    "google-apis": "^1.0.0",
+    "google-auth-library": "^1.6.1",
+    "mongoose": "^5.0.0",
+    "mongoose-dynamic-schemas": "^1.2.5",
+    "node-pre-gyp": "^0.11.0"
+  }
+}
